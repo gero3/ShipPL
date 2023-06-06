@@ -16,7 +16,7 @@ SHIP Programming Language is a high-level programming language designed with str
 
 To get started with SHIP programming, follow the steps below:
 
-1. Install the SHIP compiler and runtime from the [releases](https://github.com/example/ship-lang/releases) page.
+1. Install the SHIP compiler and runtime from the [releases](https://github.com/gero3/ship-lang/releases) page.
 2. Write your SHIP program using the SHIP programming language syntax.
 3. Compile your SHIP program using the SHIP compiler.
 4. Run the compiled program using the SHIP runtime environment.
@@ -35,15 +35,15 @@ output sum;
 
 ### Documentation
 
-For detailed information about the SHIP programming language syntax, features, and usage, refer to the [official documentation](https://github.com/example/ship-lang/wiki).
+For detailed information about the SHIP programming language syntax, features, and usage, refer to the [official documentation](https://github.com/gero3/ship-lang/wiki).
 
 ### Contributing
 
-Contributions to the SHIP Programming Language project are welcome! If you encounter any bugs, have feature requests, or would like to contribute code, please open an issue or submit a pull request following our [contribution guidelines](https://github.com/example/ship-lang/blob/main/CONTRIBUTING.md).
+Contributions to the SHIP Programming Language project are welcome! If you encounter any bugs, have feature requests, or would like to contribute code, please open an issue or submit a pull request following our [contribution guidelines](https://github.com/gero3/ship-lang/blob/main/CONTRIBUTING.md).
 
 ### License
 
-SHIP Programming Language is licensed under the [MIT License](https://github.com/example/ship-lang/blob/main/LICENSE).
+SHIP Programming Language is licensed under the [MIT License](https://github.com/gero3/ship-lang/blob/main/LICENSE).
 
 ### Acknowledgements
 

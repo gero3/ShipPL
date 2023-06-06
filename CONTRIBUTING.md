@@ -54,8 +54,3 @@ When contributing to the SHIP Programming Language project, please abide by the 
 
 By contributing to the SHIP Programming Language project, you agree that your contributions will be licensed under the [MIT License](https://github.com/gero3/ship-lang/blob/main/LICENSE).
 
-## Contact
-
-If you have any further questions or need assistance, feel free to contact the project maintainers at ship-lang@example.com.
-
-We appreciate your contributions and thank you for helping to improve the SHIP Programming Language!
